@@ -1,6 +1,6 @@
 #!/bin/bash
-# CphishTermux v1.5
-# Created by Sajid ibn Nayeem
+# ZHS Camera Termux v1.5
+# Created by ZHS Offical 
 
 trap 'printf "\n";stop' 2
 
@@ -15,8 +15,8 @@ printf "\e[1;93m | |       \e[0m\e[1;77m| (      | (   ) |   | |         ) || ( 
 printf "\e[1;93m | (____/\ \e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;93m (_______/ \e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \| Termux \e[0m\n"
 
-printf "\e[1;92m ➤ CphishTermux Ver 1.5 \e[0m \n"
-printf "\e[1;92m ➤ Tool Created by Sajid Ibn Nayeem \e[0m \n"
+printf "\e[1;92m ➤ ZHS Camera Termux Ver 1.5 \e[0m \n"
+printf "\e[1;92m ➤ Tool Created by Zeeshan ( ZHS )\e[0m \n"
 
 printf "\n"
 
